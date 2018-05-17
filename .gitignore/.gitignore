@@ -1,0 +1,6 @@
+*.rtf
+*.iml
+/target
+/resources
+/out
+/gitignore
